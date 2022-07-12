@@ -7,7 +7,7 @@ This project is a based on classification for Detection of the Credit Card Trans
 * Feature Engineering
 * Machine Learning
 * Data Visualization
-
+* Neural Networking 
 
 ### Technologies 
 * Python
