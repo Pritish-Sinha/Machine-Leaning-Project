@@ -1,0 +1,18 @@
+# Project Description
+This project is a Recommender Sytem which recommends songs to the user:-<br/>
+Based on
+* 1.Polularity:- Correlation
+* 2.Colaborative Filering:- KNN
+<br>
+Using Classification algorithm and Pearson Correlation.
+
+
+### Methods Used
+* Feature Engineering
+* Machine Learning
+* Data Visualization
+
+
+
+### Technologies 
+* Python
