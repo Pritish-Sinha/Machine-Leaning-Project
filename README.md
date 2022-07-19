@@ -23,7 +23,7 @@ You can check  out the project and implementation of Machine Learning Methods on
 ## Clustering
 |__PROJECT__|__Content__|__REPO__|
 |-|-|-|
-|`Customer Segmentaion`|`Clustering`, `KMeans`|[Repository](Customer_Segmentation)|
+|`Customer Segmentation`|`Clustering`, `KMeans`|[Repository](Customer_Segmentation)|
 | | | | |
 
 
