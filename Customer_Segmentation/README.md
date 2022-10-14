@@ -15,6 +15,3 @@ This Project is based on Unsupervised Learning which is used for Segementation o
 
 
 ##### Note:- I have used plotly for ploting which cannot be renderd on github . So i have used images to show them . To see the complete project download and run the ipynb file.
-
-
-
