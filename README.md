@@ -39,3 +39,11 @@ You can check  out the project and implementation of Machine Learning Methods on
 |-|-|-|
 |`Pokemon Types`|`Data Analysis`,`Data Visualisation`|[Repository](Pokemon_Stats)|
 | | | | |
+|`Titanic Survival Analysis`|`Data Analysis`,`EDA`|[Repository](Titanic_Survival_Analysis)|
+| | | | |
+
+## Natural Language Processing
+|__PROJECT__|__Content__|__REPO__|
+|-|-|-|
+|`Sentiment Analysis`|`NLP`, `Feature Engineering`, `ESG Score`|[Repository](ESG_Sentiment_Mining)|
+| | | | |
