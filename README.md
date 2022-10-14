@@ -39,7 +39,7 @@ You can check  out the project and implementation of Machine Learning Methods on
 |-|-|-|
 |`Pokemon Types`|`Data Analysis`,`Data Visualisation`|[Repository](Pokemon_Stats)|
 | | | | |
-|`Titanic Survival Analysis`|`Data Analysis`,`EDA`|[Repository](Titanic Survival Analysis)|
+|`Titanic Survival Analysis`|`Data Analysis`,`EDA`|[Repository](https://github.com/Pritish-Sinha/Machine-Leaning-Project/tree/main/Titanic%20Survival%20Analysis)|
 | | | | |
 
 ## Natural Language Processing
