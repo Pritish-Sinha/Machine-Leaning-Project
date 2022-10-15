@@ -46,7 +46,6 @@ You can check  out the project and implementation of Machine Learning Methods on
 |__PROJECT__|__Content__|__REPO__|
 |-|-|-|
 |`Sentiment Analysis`|`NLP`, `Feature Engineering`, `ESG Score`|[Repository](ESG_Sentiment_Mining)|
-| | | |
-|-|-|-|
+| | | | |
 |`Twitter Sentiment Analysis`|`NLP`, `Feature Engineering`|[Repository](twitter_sentiment_analysis)|
 | | | | |
