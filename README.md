@@ -49,3 +49,8 @@ You can check  out the project and implementation of Machine Learning Methods on
 | | | | |
 |`Twitter Sentiment Analysis`|`NLP`, `Feature Engineering`|[Repository](twitter_sentiment_analysis)|
 | | | | |
+
+## Contributors
+<a href="https://github.com/Pritish-Sinha/Machine-Leaning-Project/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Pritish-Sinha/Machine-Leaning-Project" />
+</a>
